@@ -1,0 +1,3 @@
+line1998@hotmail.de:Gronkh058 | firstName: Aylin | lastName: Ugur | loyaltyCard:{'matrixCode': L9429351137806, 'matrixFormat': Barcode128} | id: 9429351137806
+seelisch_denny@live.de:Spucky2007 | firstName: Denny | lastName: Seelisch | loyaltyCard:{'matrixCode': L1260572255539, 'matrixFormat': Barcode128} | id: 1260572255539
+kunstrasen@freenet.de:1507bensheim | firstName: Patrick | lastName: Schmidt | loyaltyCard:{'matrixCode': L6374788050484, 'matrixFormat': Barcode128} | id: 6374788050484
